@@ -9,8 +9,7 @@ command.
 Install code from the github repository and access the home folder. All the following  
 commands after installation are assumed to be executed from the home directory.  
 ```
->  git clone https://github.com/marcvernet31/TFG-backend.git  
->  cd TFG-backend  
+>  cd backend
 ```
 
 Execute the scraper scripts to generate and populate the catalog from the datasets  

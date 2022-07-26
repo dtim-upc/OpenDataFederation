@@ -3,8 +3,6 @@ little configuration.  The only requirement is to have installed the Node Packag
 Manager (npm) for Javascript. Assuming that npm is installed, the front-end  
 files can be installed with: 
 ```
-> git clone https://github.com/marcvernet31/TFG-frontend.git  
->  cd TFG-frontend
 >  npm install  
 ```
 And the program can be executed with:  
