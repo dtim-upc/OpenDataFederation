@@ -1,0 +1,25 @@
+
+DESCRIPTION
+
+    -- App.js => initial page rendered by React, contains routing to all the pages
+    -- MainPage.js => Home, access to catalog
+    -- About.js => explanation of the website and project
+    -- Catalog.js => catalog 
+    -- Contribute.js
+    -- DataSources.js => information about the ooen data platforms
+    -- DatasetPage.js => page to show information from a individual dataset.
+    -- components/MainFeaturedPost.js => Header for Home, used in MainPage.js
+    -- components/ResponsiveAppBar.js
+    -- components/Footer.js
+
+
+MainPage.js 
+About.js 
+    -- Tot
+Catalog.js 
+Contribute.js 
+DataSources.js 
+DatasetPage.js
+    -- datasets similars a partir de columnes
+components/ResponsiveAppBar.js
+components/Footer.js
